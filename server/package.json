@@ -1,0 +1,14 @@
+{
+  "name": "multidrawgame",
+  "version": "0.0.0",
+  "description": "Generated with Eclipse npm Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}
